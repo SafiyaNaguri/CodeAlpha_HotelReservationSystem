@@ -1,0 +1,1 @@
+ResID:1 | Guest:safiya | Room:101 | Total:6000.0
